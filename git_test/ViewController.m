@@ -28,7 +28,7 @@
 
 - (IBAction)Click:(id)sender {
     
-    UIAlertView *test = [[UIAlertView alloc] initWithTitle:@"标题" message:@"这个是信息" delegate:self cancelButtonTitle:@"取消" otherButtonTitles:@"确定", nil];
+    UIAlertView *test = [[UIAlertView alloc] initWithTitle:@"标题" message:@"这个是信息" delegate:self cancelButtonTitle:@"确定" otherButtonTitles:@"确定", nil];
     
    
     [test show];
