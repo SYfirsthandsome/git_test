@@ -424,6 +424,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Zhejiang Hua You Network Technology Co., Ltd. (QC9XV3A42F)";
 				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = git_test/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -440,6 +441,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Zhejiang Hua You Network Technology Co., Ltd. (QC9XV3A42F)";
 				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = git_test/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
